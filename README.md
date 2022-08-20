@@ -1,0 +1,5 @@
+- 👋  ola, sou guilherme souza
+- 👀 estou interessado em pensamento computacional
+- 🌱 estou trabalhando github
+- 💞️ linguagens HTML CSS E JAVA
+- 📫 Email: guilherme.galvao@escola.pr.gov.br
